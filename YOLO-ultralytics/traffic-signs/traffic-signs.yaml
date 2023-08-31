@@ -1,0 +1,7 @@
+path: /Users/azinshahiri/Desktop/YOLO-ultralytics/traffic-signs
+
+train: /Users/azinshahiri/Desktop/YOLO-ultralytics/traffic-signs/train/images
+val: /Users/azinshahiri/Desktop/YOLO-ultralytics/traffic-signs/val/images
+
+nc: 4
+names: ['prohibitory','danger','mandatory','other']
